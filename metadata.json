@@ -1,0 +1,6 @@
+{
+  "name": "猜猜你的 CORTIS 擔是誰？",
+  "description": "10 個問題，看看最後會被誰悄悄拐走。粉絲向、娛樂性質的 CORTIS 偏好心動測驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
